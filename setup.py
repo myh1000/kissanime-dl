@@ -8,5 +8,5 @@ setup(
     author_email='myh1000@gmail.com',
     packages=['kissanime_dl',],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
 )
